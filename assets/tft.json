@@ -1,0 +1,283 @@
+{
+   "camille": {
+      "item1": "Bloodthirster",
+      "item2": "Dragon Claw",
+      "item3": "Guardian Angel"
+   },
+   "jayce": {
+      "item1": "Guinsoo's Rageblade",
+      "item2": "Statik Shiv",
+      "item3": "Warmog's Armor"
+   },
+   "jinx": {
+      "item1": "Rapid Firecannon",
+      "item2": "Infinity Edge",
+      "item3": "Hextech Gunblade"
+   },
+   "vi": {
+      "item1": "Frozen Heart",
+      "item2": "Warmogs Armor",
+      "item3": "Guardian Angel"
+   },
+   "aatrox": {
+      "item1": "Hextech Gunblade",
+      "item2": "Dragon's Claw",
+      "item3": "Guardian Angel"
+   },
+   "ahri": {
+      "item1": "Statik Shiv",
+      "item2": "Guinsoo's Rageblade",
+      "item3": "Luden's Echo"
+   },
+   "akali": {
+      "item1": "Seraph's Embrace",
+      "item2": "Hextech Gunblade",
+      "item3": "Dragon's Claw"
+   },
+   "anivia": {
+      "item1": "Seraph's Embrace",
+      "item2": "Seraph's Embrace",
+      "item3": "Morellonomicon"
+   },
+   "ashe": {
+      "item1": "Runaan's Hurricane",
+      "item2": "Hush",
+      "item3": "Guinsoo's Rageblade"
+   },
+   "aurelionsol": {
+      "item1": "Spear of Shojin",
+      "item2": "Guinsoo's Rageblade",
+      "item3": "Rabadon's Deathcap"
+   },
+   "blitzcrank": {
+      "item1": "Guinsoo's Rageblade",
+      "item2": "Spear of Shojin",
+      "item3": "Rabadon's Deathcap"
+   },
+   "brand": {
+      "item1": "Spear of Shojin",
+      "item2": "Guinsoo's Rageblade",
+      "item3": "Rabadon's Deathcap"
+   },
+   "braum": {
+      "item1": "Thornmail",
+      "item2": "Thornmail",
+      "item3": "Warmog's Armor"
+   },
+   "chogath": {
+      "item1": "Morellonomicon",
+      "item2": "Guardian Angel",
+      "item3": "Rabadon's Deathcap"
+   },
+   "darius": {
+      "item1": "Hextech Gunblade",
+      "item2": "Dragon's Claw",
+      "item3": "Guardian Angel"
+   },
+   "draven": {
+      "item1": "Rapid Firecannon",
+      "item2": "Bloodthirster",
+      "item3": "Guinsoo's Rageblade"
+   },
+   "elise": {
+      "item1": "Hush",
+      "item2": "Red Buff",
+      "item3": "Warmog's Armor"
+   },
+   "evelynn": {
+      "item1": "Dragon's Claw",
+      "item2": "Guardian Angel",
+      "item3": "Hextech Gunblade"
+   },
+   "fiora": {
+      "item1": "Bloodthirster",
+      "item2": "Dragon's Claw",
+      "item3": "Guardian Angel"
+   },
+   "gangplank": {
+      "item1": "Hush",
+      "item2": "Red Buff",
+      "item3": "Guardian Angel"
+   },
+   "garen": {
+      "item1": "Morellonomicon",
+      "item2": "Frozen Heart",
+      "item3": "Guardian Angel"
+   },
+   "gnar": {
+      "item1": "Bloodthirster",
+      "item2": "Guinsoo's Rageblade",
+      "item3": "Warmog's Armor"
+   },
+   "graves": {
+      "item1": "Hush",
+      "item2": "Rapid Firecannon",
+      "item3": "Rapid Firecannon"
+   },
+   "karthus": {
+      "item1": "Seraph's Embrace",
+      "item2": "Seraph's Embrace",
+      "item3": "Rabadon's Deathcap"
+   },
+   "kassadin": {
+      "item1": "Guardian Angel",
+      "item2": "Dragon's Claw",
+      "item3": "Guinsoo's Rageblade"
+   },
+   "katarina": {
+      "item1": "Morellonomicon",
+      "item2": "Seraph's Embrace",
+      "item3": "Seraph's Embrace"
+   },
+   "kayle": {
+      "item1": "Spear of Shojin",
+      "item2": "Spear of Shojin",
+      "item3": "Guinsoo's Rageblade"
+   },
+   "kennen": {
+      "item1": "Morellonomicon",
+      "item2": "Guardian Angel",
+      "item3": "Dragon's Claw"
+   },
+   "khazix": {
+      "item1": "Infinity Edge",
+      "item2": "Rapid Firecannon",
+      "item3": "Guardian Angel"
+   },
+   "kindred": {
+      "item1": "Statik Shiv",
+      "item2": "Statik Shiv",
+      "item3": "Guardian Angel"
+   },
+   "leona": {
+      "item1": "Zephyr",
+      "item2": "Dragon's Claw",
+      "item3": "Guardian Angel"
+   },
+   "lissandra": {
+      "item1": "Morellonomicon",
+      "item2": "Seraph's Embrace",
+      "item3": "Seraph's Embrace"
+   },
+   "lucian": {
+      "item1": "Seraph's Embrace",
+      "item2": "Luden's Echo",
+      "item3": "Hextech Gunblade"
+   },
+   "lulu": {
+      "item1": "Guinsoo's Rageblade",
+      "item2": "Spear of Shojin",
+      "item3": "Spear of Shojin"
+   },
+   "missfortune": {
+      "item1": "Seraph's Embrace",
+      "item2": "Seraph's Embrace",
+      "item3": "Morellonomicon"
+   },
+   "mordekaiser": {
+      "item1": "Frozen Heart",
+      "item2": "Dragons Claw",
+      "item3": "Guardian Angel"
+   },
+   "morgana": {
+      "item1": "Morellonomicon",
+      "item2": "Guardian Angel",
+      "item3": "Dragon's Claw"
+   },
+   "nidalee": {
+      "item1": "Guinsoo's Rageblade",
+      "item2": "Guardian Angelr",
+      "item3": "Dragon's Claw"
+   },
+   "pantheon": {
+      "item1": "Spear of Shojin",
+      "item2": "Spear of Shojin",
+      "item3": "Warmog's Armor"
+   },
+   "poppy": {
+      "item1": "Warmog's Armor",
+      "item2": "Dragon's Claw",
+      "item3": "Guardian Angel"
+   },
+   "pyke": {
+      "item1": "Morellonomicon",
+      "item2": "Frozen Heart",
+      "item3": "Spear of Shojin"
+   },
+   "reksai": {
+      "item1": "Frozen Heart",
+      "item2": "Warmog's Armor",
+      "item3": "Guardian Angel"
+   },
+   "rengar": {
+      "item1": "Guardian Angel",
+      "item2": "Bloodthirster",
+      "item3": "Rapid Firecannon"
+   },
+   "sejuani": {
+      "item1": "Spear of Shojin",
+      "item2": "Guardian Angel",
+      "item3": "Morellonomicon"
+   },
+   "shen": {
+      "item1": "Warmog's Armor",
+      "item2": "Dragon's Claw",
+      "item3": "Guardian Angel"
+   },
+   "shyvana": {
+      "item1": "Hextech Gunblade",
+      "item2": "Warmog's Armor",
+      "item3": "Guinsoo's Rageblade"
+   },
+   "swain": {
+      "item1": "Morellonomicon",
+      "item2": "Guardian Angel",
+      "item3": "Warmog's Armor"
+   },
+   "tristana": {
+      "item1": "Red Buff",
+      "item2": "Hush",
+      "item3": "Cursed Blade"
+   },
+   "twistedfate": {
+      "item1": "Statik Shiv",
+      "item2": "Statik Shiv",
+      "item3": "Luden's Echo"
+   },
+   "varus": {
+      "item1": "Runaan's Hurricane",
+      "item2": "Hush",
+      "item3": "Guinsoo's Rageblade"
+   },
+   "vayne": {
+      "item1": "Runaan's Hurricane",
+      "item2": "Hush",
+      "item3": "Guinsoo's Rageblade"
+   },
+   "veigar": {
+      "item1": "Spear of Shojin",
+      "item2": "Spear of Shojin",
+      "item3": "Seraph's Embrace"
+   },
+   "volibear": {
+      "item1": "Rapid Firecannon",
+      "item2": "Rapid Firecannon",
+      "item3": "Hush"
+   },
+   "warwick": {
+      "item1": "Frozen Heart",
+      "item2": "Warmog's Armor",
+      "item3": "Guardian Angel"
+   },
+   "yasuo": {
+      "item1": "Seraph's Embrace",
+      "item2": "Dragon's Claw",
+      "item3": "Luden's Echo"
+   },
+   "zed": {
+      "item1": "Infinity Edge",
+      "item2": "Rapid Firecannon",
+      "item3": "Bloodthirster"
+   }
+
+}
